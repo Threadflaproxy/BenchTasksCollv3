@@ -1,0 +1,1 @@
+# Task: thumbnail-creator
